@@ -1,2 +1,5 @@
 # Scala compiled files
 **.class
+
+# sbt generated files
+target/**
