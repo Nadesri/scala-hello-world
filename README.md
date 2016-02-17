@@ -11,7 +11,10 @@ This is a "Hello, World!" example, with some OOP-ness thrown in, for use as a *s
 On MacOSX, I suggest getting [Homebrew](http://brew.sh/). Once you get it, run:
 
     brew install scala
+
 * sbt (Scala Build Tool) [Optional]
+
+On MacOSX, I suggest getting [Homebrew](http://brew.sh/). Once you get it, run:
 
     brew install sbt
 
